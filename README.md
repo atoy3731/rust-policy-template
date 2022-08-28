@@ -1,4 +1,4 @@
-Please, note well: this file and the scaffold were generated from [a
+ePlease, note well: this file and the scaffold were generated from [a
 template](https://github.com/kubewarden/rust-policy-template). Make
 this project yours!
 
